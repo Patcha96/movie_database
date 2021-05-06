@@ -1,0 +1,34 @@
+#top_navbar {
+    margin-left: -23px;
+}
+
+#content {
+    margin-top: 56px;
+}
+
+#search {
+    margin-top: 86px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.nav-link {
+    padding-right: 15px;
+    color: lightgray;
+}
+.nav-link:hover,
+.nav-link:focus {
+    text-decoration: none;
+    color: white;
+}
+
+.nav .nav-item {
+    margin-bottom: -1px;
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.body {
+    margin-top: 60px;
+}
